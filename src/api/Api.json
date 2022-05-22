@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "name": "Lasse-Stefanz",
+            "price": 400,
+            "where": "Avicii arena",
+            "when": {
+                "date": "21 Mar",
+                "from": "20.00",
+                "to": "22:00"
+            }
+        },
+        {
+            "name": "Pelle trubadur",
+            "price": 119,
+            "where": "Puben på hörnet",
+            "when": {
+                "date": "11 Apr",
+                "from": "21.00",
+                "to": "23:00"
+            }
+        },
+        {
+            "name": "Kajsas kör",
+            "price": 0,
+            "where": "Götaplatsen",
+            "when": {
+                "date": "13 Dec",
+                "from": "15.00",
+                "to": "16:00"
+            }
+        },
+        {
+            "name": "Klubb Untz",
+            "price": 150,
+            "where": "Mörka hörnet",
+            "when": {
+                "date": "4 Jul",
+                "from": "20.00",
+                "to": "05:00"
+            }
+        },
+        {
+            "name": "Greats symfoniker",
+            "price": 300,
+            "where": "Kungliga operan",
+            "when": {
+                "date": "15 Nov",
+                "from": "18.00",
+                "to": "20:00"
+            }
+        }
+    ]
+}
